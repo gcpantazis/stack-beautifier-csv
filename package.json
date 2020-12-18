@@ -1,0 +1,22 @@
+{
+  "name": "stack-beautifier-csv",
+  "version": "1.0.0",
+  "description": "A wrapper for stack-beautifier that works with CSV files.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "stack-beautifier-csv": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.1",
+    "csv-parser": "^3.0.0",
+    "json2csv": "^5.0.5",
+    "stack-beautifier": "^1.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
