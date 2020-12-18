@@ -1,6 +1,6 @@
 {
   "name": "stack-beautifier-csv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A wrapper for stack-beautifier that works with CSV files.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
